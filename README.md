@@ -11,10 +11,6 @@ Welcome to my professional portfolio website! This is a responsive, fully-functi
 
 👉 [Visit the Live Portfolio Website](https://ummadisettyvenkatamadhu.github.io/My_Portfolio/)
 
-![Portfolio Screenshot](https://via.placeholder.com/1200x675/3498db/ffffff?text=Venkata+Madhu+Portfolio+Screenshot)
-
-*Note: A screenshot will be added here once the site is live and accessible.*
-
 ## 💡 Features
 
 ✅ **Modern & Responsive Design**  
